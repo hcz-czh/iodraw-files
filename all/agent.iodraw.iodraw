@@ -20,7 +20,7 @@
           <mxGeometry x="473.25" y="501.25" width="116" height="59.5" as="geometry" />
         </mxCell>
         <mxCell id="Bua3NkkRA4rnZkmHzHUo-21" value="AgentState" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="496" y="628" width="70.5" height="71" as="geometry" />
+          <mxGeometry x="496" y="628" width="70.5" height="36" as="geometry" />
         </mxCell>
         <mxCell id="Bua3NkkRA4rnZkmHzHUo-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="293" y="18" width="293" height="408" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="162" y="521" width="41" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Bua3NkkRA4rnZkmHzHUo-47" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=12.67;notch=0;rotation=90;" parent="1" vertex="1">
-          <mxGeometry x="502.53000000000003" y="585" width="50.5" height="20" as="geometry" />
+          <mxGeometry x="506.00000000000006" y="584.5" width="50.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Bua3NkkRA4rnZkmHzHUo-56" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=12.67;notch=0;" parent="1" vertex="1">
           <mxGeometry x="418.5" y="790" width="62" height="20" as="geometry" />
