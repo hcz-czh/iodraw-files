@@ -100,9 +100,6 @@
         <mxCell id="gTW6Y_k1q3hhf4XiG1h9-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="245" y="609" width="293" height="408" as="geometry" />
         </mxCell>
-        <mxCell id="gTW6Y_k1q3hhf4XiG1h9-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="gTW6Y_k1q3hhf4XiG1h9-11" target="gTW6Y_k1q3hhf4XiG1h9-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="gTW6Y_k1q3hhf4XiG1h9-11" value="multimodal tool layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315.5" y="627" width="152" height="33" as="geometry" />
         </mxCell>
