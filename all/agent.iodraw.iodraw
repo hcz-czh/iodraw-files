@@ -103,7 +103,7 @@
         <mxCell id="gTW6Y_k1q3hhf4XiG1h9-11" value="multimodal tool layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315.5" y="627" width="152" height="33" as="geometry" />
         </mxCell>
-        <mxCell id="gTW6Y_k1q3hhf4XiG1h9-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="gTW6Y_k1q3hhf4XiG1h9-12" target="gTW6Y_k1q3hhf4XiG1h9-15">
+        <mxCell id="gTW6Y_k1q3hhf4XiG1h9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="gTW6Y_k1q3hhf4XiG1h9-12" target="gTW6Y_k1q3hhf4XiG1h9-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gTW6Y_k1q3hhf4XiG1h9-12" value="Video" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
