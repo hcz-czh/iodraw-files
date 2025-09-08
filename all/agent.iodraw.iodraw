@@ -11,7 +11,7 @@
           <mxGeometry x="94" y="547.5" width="57" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Bua3NkkRA4rnZkmHzHUo-18" value="Task Routing" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="176" y="517.5" width="86" height="27" as="geometry" />
+          <mxGeometry x="182" y="517.5" width="86" height="27" as="geometry" />
         </mxCell>
         <mxCell id="Bua3NkkRA4rnZkmHzHUo-20" value="&lt;div&gt;&amp;nbsp;1. Task Type&lt;/div&gt;&lt;div&gt;&amp;nbsp;2. Loop Support&lt;/div&gt;&lt;div&gt;&amp;nbsp;3. Process Presets&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="293" y="501.25" width="116" height="59.5" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="429.96000000000004" y="292" width="19.06" height="8.81" as="geometry" />
         </mxCell>
         <mxCell id="gTW6Y_k1q3hhf4XiG1h9-2" value="multimodal tool layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="601" y="516.25" width="152" height="33" as="geometry" />
+          <mxGeometry x="529" y="514.5" width="152" height="33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
