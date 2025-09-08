@@ -88,7 +88,7 @@
         <mxCell id="Bua3NkkRA4rnZkmHzHUo-81" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=6.69;notch=0;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="429.96000000000004" y="292" width="19.06" height="8.81" as="geometry" />
         </mxCell>
-        <mxCell id="gTW6Y_k1q3hhf4XiG1h9-2" value="multimodal tool layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gTW6Y_k1q3hhf4XiG1h9-2" value="Multimodal Tool Layer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="529" y="514.5" width="152" height="33" as="geometry" />
         </mxCell>
       </root>
