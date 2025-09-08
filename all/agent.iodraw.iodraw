@@ -127,9 +127,6 @@
         <mxCell id="gTW6Y_k1q3hhf4XiG1h9-19" value="Answer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="363" y="963" width="57" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="gTW6Y_k1q3hhf4XiG1h9-27" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="385.94" y="816" width="7.34" height="108" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
