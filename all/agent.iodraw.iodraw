@@ -16,8 +16,8 @@
         <mxCell id="Bua3NkkRA4rnZkmHzHUo-19" value="问题分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="336" y="517.5" width="57" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="Bua3NkkRA4rnZkmHzHUo-20" value="1.任务类型&lt;div&gt;2.循环支持&lt;/div&gt;&lt;div&gt;3.流程预设&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="483" y="498.5" width="86" height="65" as="geometry" />
+        <mxCell id="Bua3NkkRA4rnZkmHzHUo-20" value="&lt;div&gt;1. Task Type&lt;/div&gt;&lt;div&gt;2. Loop Support&lt;/div&gt;&lt;div&gt;3. Process Presets&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="483" y="498.5" width="90" height="58.5" as="geometry" />
         </mxCell>
         <mxCell id="Bua3NkkRA4rnZkmHzHUo-21" value="AgentState" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="496" y="628" width="70.5" height="71" as="geometry" />
