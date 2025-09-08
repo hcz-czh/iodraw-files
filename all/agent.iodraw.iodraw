@@ -116,10 +116,10 @@
           <mxGeometry x="414" y="785" width="57" height="27" as="geometry" />
         </mxCell>
         <mxCell id="gTW6Y_k1q3hhf4XiG1h9-16" value="VLM Tool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="839.02" width="57" height="27" as="geometry" />
+          <mxGeometry x="312.5" y="842" width="57" height="27" as="geometry" />
         </mxCell>
         <mxCell id="gTW6Y_k1q3hhf4XiG1h9-17" value="ALM Tool" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="413.5" y="839.02" width="57" height="27" as="geometry" />
+          <mxGeometry x="414" y="842" width="57" height="27" as="geometry" />
         </mxCell>
         <mxCell id="gTW6Y_k1q3hhf4XiG1h9-18" value="LLM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="363" y="899" width="57" height="27" as="geometry" />
