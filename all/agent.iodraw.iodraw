@@ -107,10 +107,10 @@
           <mxGeometry x="363" y="680" width="57" height="27" as="geometry" />
         </mxCell>
         <mxCell id="gTW6Y_k1q3hhf4XiG1h9-13" value="Video Processor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307.37" y="728" width="158" height="27" as="geometry" />
+          <mxGeometry x="312.5" y="728" width="158" height="27" as="geometry" />
         </mxCell>
         <mxCell id="gTW6Y_k1q3hhf4XiG1h9-14" value="video" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312.5" y="781" width="57" height="27" as="geometry" />
+          <mxGeometry x="312.5" y="785" width="57" height="27" as="geometry" />
         </mxCell>
         <mxCell id="gTW6Y_k1q3hhf4XiG1h9-15" value="audio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="781" width="57" height="27" as="geometry" />
