@@ -190,7 +190,7 @@
         <mxCell id="kwa2ZHj6IF3mzOT1-8IX-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="269" y="1508" width="293" height="408" as="geometry" />
         </mxCell>
-        <mxCell id="kwa2ZHj6IF3mzOT1-8IX-63" value="multimodal tool layer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kwa2ZHj6IF3mzOT1-8IX-63" value="M&lt;span style=&quot;background-color: initial;&quot;&gt;ultimodal Tool Layer&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="339.5" y="1526" width="152" height="33" as="geometry" />
         </mxCell>
         <mxCell id="kwa2ZHj6IF3mzOT1-8IX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="kwa2ZHj6IF3mzOT1-8IX-65" target="kwa2ZHj6IF3mzOT1-8IX-68" edge="1">
