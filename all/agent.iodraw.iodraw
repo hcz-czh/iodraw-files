@@ -172,8 +172,8 @@
         <mxCell id="kwa2ZHj6IF3mzOT1-8IX-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="kwa2ZHj6IF3mzOT1-8IX-57" target="kwa2ZHj6IF3mzOT1-8IX-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kwa2ZHj6IF3mzOT1-8IX-57" value="AgentState" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="486.94" y="1412.5" width="70.5" height="36" as="geometry" />
+        <mxCell id="kwa2ZHj6IF3mzOT1-8IX-57" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; AgentState" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="486.94" y="1412.5" width="104.06" height="36" as="geometry" />
         </mxCell>
         <mxCell id="kwa2ZHj6IF3mzOT1-8IX-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="kwa2ZHj6IF3mzOT1-8IX-59" target="kwa2ZHj6IF3mzOT1-8IX-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
