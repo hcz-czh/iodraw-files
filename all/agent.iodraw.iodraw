@@ -304,6 +304,9 @@
         <mxCell id="73fqjf5jsxLrzY5_tASC-72" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; AgentState" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="119" y="2773" width="109.15" height="42.25" as="geometry" />
         </mxCell>
+        <mxCell id="73fqjf5jsxLrzY5_tASC-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="73fqjf5jsxLrzY5_tASC-76" target="73fqjf5jsxLrzY5_tASC-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="73fqjf5jsxLrzY5_tASC-76" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Multimodal Tool Layer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="85.56" y="2850.75" width="189.62" height="40.25" as="geometry" />
         </mxCell>
