@@ -167,13 +167,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kwa2ZHj6IF3mzOT1-8IX-55" value="&lt;div&gt;&amp;nbsp;1. Task Type&lt;/div&gt;&lt;div&gt;&amp;nbsp;2. Loop Support&lt;/div&gt;&lt;div&gt;&amp;nbsp;3. Process Presets&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
-          <mxGeometry x="317" y="1400.25" width="116" height="59.5" as="geometry" />
+          <mxGeometry x="346" y="1400.75" width="116" height="59.5" as="geometry" />
         </mxCell>
         <mxCell id="kwa2ZHj6IF3mzOT1-8IX-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="kwa2ZHj6IF3mzOT1-8IX-57" target="kwa2ZHj6IF3mzOT1-8IX-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kwa2ZHj6IF3mzOT1-8IX-57" value="AgentState" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="457.94" y="1412" width="70.5" height="36" as="geometry" />
+          <mxGeometry x="486.94" y="1412.5" width="70.5" height="36" as="geometry" />
         </mxCell>
         <mxCell id="kwa2ZHj6IF3mzOT1-8IX-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="kwa2ZHj6IF3mzOT1-8IX-59" target="kwa2ZHj6IF3mzOT1-8IX-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -185,7 +185,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kwa2ZHj6IF3mzOT1-8IX-61" value="Multimodal Tool Layer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="553" y="1413.5" width="152" height="33" as="geometry" />
+          <mxGeometry x="582" y="1414" width="152" height="33" as="geometry" />
         </mxCell>
         <mxCell id="kwa2ZHj6IF3mzOT1-8IX-62" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="269" y="1508" width="293" height="408" as="geometry" />
