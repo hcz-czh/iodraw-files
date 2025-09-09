@@ -412,7 +412,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="73fqjf5jsxLrzY5_tASC-134" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="145" y="2461.25" width="27.25" height="140.75" as="geometry" />
+          <mxGeometry x="160" y="2446.25" width="27.25" height="170.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
