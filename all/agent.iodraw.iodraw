@@ -196,7 +196,7 @@
         <mxCell id="kwa2ZHj6IF3mzOT1-8IX-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="kwa2ZHj6IF3mzOT1-8IX-65" target="kwa2ZHj6IF3mzOT1-8IX-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kwa2ZHj6IF3mzOT1-8IX-65" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Video" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="kwa2ZHj6IF3mzOT1-8IX-65" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; Video" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="381.25" y="1579" width="70" height="27" as="geometry" />
         </mxCell>
         <mxCell id="kwa2ZHj6IF3mzOT1-8IX-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="kwa2ZHj6IF3mzOT1-8IX-68" target="kwa2ZHj6IF3mzOT1-8IX-70" edge="1">
