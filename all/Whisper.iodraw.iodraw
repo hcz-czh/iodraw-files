@@ -284,6 +284,9 @@
             <mxPoint x="228.5" y="411" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xVQ_b2z2GW1B3TXGjReW-104" value="正弦位置编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="266.07" y="378" width="87" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
