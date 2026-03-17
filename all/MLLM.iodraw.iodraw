@@ -11,12 +11,12 @@
           <mxGeometry x="320" y="520" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LqIX3dIgjXIiOOP2Vh7v-7" value="文本编码器" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=0;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="170" y="720" width="100" height="50" as="geometry" />
+          <mxGeometry x="220" y="630" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LqIX3dIgjXIiOOP2Vh7v-8" value="文本编码器" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=0;labelPosition=center;align=center;" vertex="1" parent="1">
-          <mxGeometry x="340" y="680" width="100" height="50" as="geometry" />
+        <mxCell id="LqIX3dIgjXIiOOP2Vh7v-8" value="视觉编码器" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=0;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="355" y="630" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LqIX3dIgjXIiOOP2Vh7v-9" value="文本编码器" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=0;labelPosition=center;align=center;" vertex="1" parent="1">
+        <mxCell id="LqIX3dIgjXIiOOP2Vh7v-9" value="音频编码器" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=0;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="465" y="670" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
