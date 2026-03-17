@@ -186,7 +186,7 @@
         <mxCell id="TT3nsvYr7EZbplWC21bk-33" value="交叉注意力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="394" y="237" width="40" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="TT3nsvYr7EZbplWC21bk-34" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="TT3nsvYr7EZbplWC21bk-34" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="431" y="198" as="sourcePoint" />
             <mxPoint x="550" y="197.83" as="targetPoint" />
@@ -200,8 +200,8 @@
         </mxCell>
         <mxCell id="TT3nsvYr7EZbplWC21bk-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="451" y="218" as="sourcePoint" />
-            <mxPoint x="570" y="217.83" as="targetPoint" />
+            <mxPoint x="431" y="322.47" as="sourcePoint" />
+            <mxPoint x="550" y="322.3" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
