@@ -16,7 +16,7 @@
         <mxCell id="RyAKpa8wuSzRFoHNLAG8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RyAKpa8wuSzRFoHNLAG8-6" target="RyAKpa8wuSzRFoHNLAG8-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RyAKpa8wuSzRFoHNLAG8-6" value="多模态投影层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#95E1D3;" vertex="1" parent="1">
+        <mxCell id="RyAKpa8wuSzRFoHNLAG8-6" value="多模态投影层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E4F1DC;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="520" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RyAKpa8wuSzRFoHNLAG8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RyAKpa8wuSzRFoHNLAG8-8" target="RyAKpa8wuSzRFoHNLAG8-6">
