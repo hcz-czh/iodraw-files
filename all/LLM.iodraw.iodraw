@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1bQjv6YVnuf7DABMnYCF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="450" width="570" height="610" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDDDDD;" vertex="1" parent="1">
@@ -46,8 +46,8 @@
         <mxCell id="1bQjv6YVnuf7DABMnYCF-22" value="欢迎" style="rounded=0;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="346" y="480" width="48" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1bQjv6YVnuf7DABMnYCF-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447" y="480" width="120" height="60" as="geometry" />
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-23" value="text&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2420&lt;div&gt;tokens 16326&lt;/div&gt;&lt;div&gt;words&amp;nbsp; &amp;nbsp; 2456&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="447" y="480" width="113" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
