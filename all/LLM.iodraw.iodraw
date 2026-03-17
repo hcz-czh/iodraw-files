@@ -28,10 +28,13 @@
         <mxCell id="1bQjv6YVnuf7DABMnYCF-10" value="位置编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="273" y="593" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1bQjv6YVnuf7DABMnYCF-15" target="1bQjv6YVnuf7DABMnYCF-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-15" value="线性层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CBD8F5;" vertex="1" parent="1">
           <mxGeometry x="357.12" y="1070" width="81.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1bQjv6YVnuf7DABMnYCF-16" value="softmax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-16" value="softmax" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CBF5CE;" vertex="1" parent="1">
           <mxGeometry x="357.12" y="1120" width="81.63" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-17" value="北京" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#C4B7E5;" vertex="1" parent="1">
@@ -168,6 +171,9 @@
             <mxPoint x="397.9" y="970" as="sourcePoint" />
             <mxPoint x="397.9" y="960" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1bQjv6YVnuf7DABMnYCF-70" target="1bQjv6YVnuf7DABMnYCF-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-70" value="层归一化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3E8BD;" vertex="1" parent="1">
           <mxGeometry x="356.25" y="1020" width="83.5" height="30" as="geometry" />
