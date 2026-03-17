@@ -28,11 +28,8 @@
         <mxCell id="1bQjv6YVnuf7DABMnYCF-10" value="位置编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="273" y="593" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1bQjv6YVnuf7DABMnYCF-14" value="层归一化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="1010" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1bQjv6YVnuf7DABMnYCF-15" value="线性层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="1060" width="90" height="30" as="geometry" />
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-15" value="线性层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CBD8F5;" vertex="1" parent="1">
+          <mxGeometry x="468.25" y="1020" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-16" value="softmax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="1100" width="90" height="30" as="geometry" />
@@ -171,6 +168,9 @@
             <mxPoint x="397.9" y="970" as="sourcePoint" />
             <mxPoint x="397.9" y="960" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-70" value="层归一化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3E8BD;" vertex="1" parent="1">
+          <mxGeometry x="468.25" y="990" width="83.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
