@@ -207,6 +207,9 @@
         <mxCell id="1bQjv6YVnuf7DABMnYCF-129" value="transformer&amp;nbsp; i" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-440" y="430" width="85" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-130" value="LLM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="-457.5" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
