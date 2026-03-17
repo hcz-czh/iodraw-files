@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="u3Amkzdtjn2DLYwHqht-">
-    <mxGraphModel dx="1728" dy="998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1430" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="RyAKpa8wuSzRFoHNLAG8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RyAKpa8wuSzRFoHNLAG8-8" target="RyAKpa8wuSzRFoHNLAG8-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RyAKpa8wuSzRFoHNLAG8-8" value="文本编码器" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=0;labelPosition=center;align=center;fillColor=#F08A5D;" vertex="1" parent="1">
+        <mxCell id="RyAKpa8wuSzRFoHNLAG8-8" value="文本编码器" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=0;labelPosition=center;align=center;fillColor=#FFD6BA;" vertex="1" parent="1">
           <mxGeometry x="220" y="600" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="RyAKpa8wuSzRFoHNLAG8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RyAKpa8wuSzRFoHNLAG8-10" target="RyAKpa8wuSzRFoHNLAG8-6">
