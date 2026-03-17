@@ -222,13 +222,13 @@
         <mxCell id="TT3nsvYr7EZbplWC21bk-4" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;TRAN-&lt;br&gt;SCRIBE&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fcfcfc;strokeColor=#000100;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="355" y="615" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TT3nsvYr7EZbplWC21bk-5" value="" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fcfcfc;strokeColor=default;strokeWidth=2;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+        <mxCell id="TT3nsvYr7EZbplWC21bk-5" value="0.0" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fcfcfc;strokeColor=default;strokeWidth=2;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="405" y="615" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TT3nsvYr7EZbplWC21bk-7" value="" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7CF178;strokeColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TT3nsvYr7EZbplWC21bk-7" value="The" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7CF178;strokeColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="456" y="615" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TT3nsvYr7EZbplWC21bk-8" value="" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7CF178;strokeColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="TT3nsvYr7EZbplWC21bk-8" value="quick" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7CF178;strokeColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="506" y="615" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TT3nsvYr7EZbplWC21bk-9" value="" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#7CF178;strokeColor=none;strokeWidth=2;" vertex="1" parent="1">
