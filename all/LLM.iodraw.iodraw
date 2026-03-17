@@ -17,7 +17,7 @@
           <mxGeometry x="356.25" y="740" width="83.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-6" value="多头因果自注意力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8D9BD;" vertex="1" parent="1">
-          <mxGeometry x="339.5" y="800" width="117" height="40" as="geometry" />
+          <mxGeometry x="339.5" y="800" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-8" value="前馈神经网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BDE8E8;" vertex="1" parent="1">
           <mxGeometry x="349.5" y="930" width="97" height="30" as="geometry" />
@@ -137,6 +137,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="397.9" y="840" as="sourcePoint" />
             <mxPoint x="397.9" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-59" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="760" as="sourcePoint" />
+            <mxPoint x="470" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
