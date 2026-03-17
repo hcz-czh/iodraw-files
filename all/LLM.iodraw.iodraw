@@ -40,6 +40,9 @@
         <mxCell id="1bQjv6YVnuf7DABMnYCF-17" value="北京" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="500" width="30" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-18" value="h欢迎" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="510" width="30" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
