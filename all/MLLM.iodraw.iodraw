@@ -7,7 +7,7 @@
         <mxCell id="LqIX3dIgjXIiOOP2Vh7v-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="430" width="345" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LqIX3dIgjXIiOOP2Vh7v-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LqIX3dIgjXIiOOP2Vh7v-2" value="多模态投影层" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="520" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LqIX3dIgjXIiOOP2Vh7v-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LqIX3dIgjXIiOOP2Vh7v-7" target="LqIX3dIgjXIiOOP2Vh7v-2">
@@ -16,8 +16,14 @@
         <mxCell id="LqIX3dIgjXIiOOP2Vh7v-7" value="文本编码器" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=0;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="220" y="630" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="LqIX3dIgjXIiOOP2Vh7v-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LqIX3dIgjXIiOOP2Vh7v-8" target="LqIX3dIgjXIiOOP2Vh7v-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LqIX3dIgjXIiOOP2Vh7v-8" value="视觉编码器" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=0;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="342.5" y="630" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LqIX3dIgjXIiOOP2Vh7v-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LqIX3dIgjXIiOOP2Vh7v-9" target="LqIX3dIgjXIiOOP2Vh7v-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LqIX3dIgjXIiOOP2Vh7v-9" value="音频编码器" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=0;labelPosition=center;align=center;" vertex="1" parent="1">
           <mxGeometry x="465" y="630" width="100" height="50" as="geometry" />
