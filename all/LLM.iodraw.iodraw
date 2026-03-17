@@ -19,8 +19,8 @@
         <mxCell id="1bQjv6YVnuf7DABMnYCF-8" value="前馈神经网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="940" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1bQjv6YVnuf7DABMnYCF-9" value="词嵌入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="333" y="570" width="90" height="30" as="geometry" />
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-9" value="词嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFCBF5;" vertex="1" parent="1">
+          <mxGeometry x="333" y="593" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-10" value="位置编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="273" y="593" width="60" height="30" as="geometry" />
