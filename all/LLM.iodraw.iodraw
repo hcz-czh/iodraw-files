@@ -29,10 +29,10 @@
           <mxGeometry x="273" y="593" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-15" value="线性层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CBD8F5;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1040" width="81.75" height="30" as="geometry" />
+          <mxGeometry x="357.12" y="1070" width="81.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-16" value="softmax" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="1100" width="90" height="30" as="geometry" />
+          <mxGeometry x="355.5" y="1120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-17" value="北京" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#C4B7E5;" vertex="1" parent="1">
           <mxGeometry x="316.5" y="490.25" width="48" height="30" as="geometry" />
@@ -170,7 +170,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-70" value="层归一化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3E8BD;" vertex="1" parent="1">
-          <mxGeometry x="468.25" y="990" width="83.5" height="30" as="geometry" />
+          <mxGeometry x="356.25" y="1020" width="83.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
