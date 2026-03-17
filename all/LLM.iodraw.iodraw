@@ -13,7 +13,7 @@
         <mxCell id="1bQjv6YVnuf7DABMnYCF-4" value="层归一化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3E8BD;" vertex="1" parent="1">
           <mxGeometry x="353" y="740" width="83.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1bQjv6YVnuf7DABMnYCF-6" value="多头因果自注意力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-6" value="多头因果自注意力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8D9BD;" vertex="1" parent="1">
           <mxGeometry x="339.5" y="840" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-8" value="前馈神经网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -24,9 +24,6 @@
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-10" value="位置编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="273" y="593" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1bQjv6YVnuf7DABMnYCF-12" value="层归一化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="890" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-14" value="层归一化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="1010" width="90" height="30" as="geometry" />
@@ -102,6 +99,9 @@
             <mxPoint x="350" y="680" as="sourcePoint" />
             <mxPoint x="380" y="600" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-47" value="层归一化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3E8BD;" vertex="1" parent="1">
+          <mxGeometry x="359.5" y="880" width="83.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
