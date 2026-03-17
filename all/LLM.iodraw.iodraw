@@ -8,7 +8,7 @@
           <mxGeometry x="-490" y="420" width="570" height="610" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DDDDDD;" vertex="1" parent="1">
-          <mxGeometry x="264" y="730" width="226" height="270" as="geometry" />
+          <mxGeometry x="285" y="730" width="226" height="270" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1bQjv6YVnuf7DABMnYCF-4" target="1bQjv6YVnuf7DABMnYCF-6">
           <mxGeometry relative="1" as="geometry" />
@@ -180,6 +180,9 @@
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-70" value="层归一化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3E8BD;" vertex="1" parent="1">
           <mxGeometry x="356.25" y="1020" width="83.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-74" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="285" y="730" width="65" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
