@@ -38,13 +38,13 @@
           <mxGeometry x="343" y="1010" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-17" value="北京" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#C4B7E5;" vertex="1" parent="1">
-          <mxGeometry x="303" y="480" width="48" height="30" as="geometry" />
+          <mxGeometry x="316.5" y="490.25" width="48" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-21" value="您" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="394" y="480" width="39" height="30" as="geometry" />
+          <mxGeometry x="407.5" y="490.25" width="39" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-22" value="欢迎" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#EFD2A3;" vertex="1" parent="1">
-          <mxGeometry x="346" y="480" width="48" height="30" as="geometry" />
+          <mxGeometry x="359.5" y="490.25" width="48" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-24" value="text" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=none;fillColor=#EDA7A9;" vertex="1" parent="1">
           <mxGeometry x="460" y="465" width="30" height="20" as="geometry" />
@@ -65,16 +65,19 @@
           <mxGeometry x="500" y="505" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-30" value="2437" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="303" y="510" width="39" height="20" as="geometry" />
+          <mxGeometry x="316.5" y="520.25" width="39" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-31" value="2845" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350.5" y="510" width="39" height="20" as="geometry" />
+          <mxGeometry x="364" y="520.25" width="39" height="20" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-32" value="123" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="394" y="510" width="39" height="20" as="geometry" />
+          <mxGeometry x="407.5" y="520.25" width="39" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1bQjv6YVnuf7DABMnYCF-33" target="1bQjv6YVnuf7DABMnYCF-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="349.75" y="489.75" width="29.5" height="100" as="geometry" />
+          <mxGeometry x="363.25" y="500" width="29.5" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
