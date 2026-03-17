@@ -194,9 +194,6 @@
         <mxCell id="xVQ_b2z2GW1B3TXGjReW-63" value="Decoder Block" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=14;align=center;verticalAlign=middle;overflow=visible;fontColor=#414141;fontFamily=Arial Narrow;" vertex="1" parent="1">
           <mxGeometry x="643" y="160.75" width="97.01" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="xVQ_b2z2GW1B3TXGjReW-66" value="正弦位置编码" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=12;align=center;verticalAlign=middle;overflow=visible;fontStyle=1;fontColor=#5d5d5d;fontFamily=Arial Narrow;" vertex="1" parent="1">
-          <mxGeometry x="233" y="369" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="xVQ_b2z2GW1B3TXGjReW-68" value=":" style="text;html=1;whiteSpace=nowrap;autosize=1;resizable=0;fontSize=10;align=center;verticalAlign=middle;overflow=visible;fontStyle=3;fontColor=#050505;fontFamily=Times New Roman;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="687" y="268" width="20" height="30" as="geometry" />
         </mxCell>
