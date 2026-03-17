@@ -177,8 +177,11 @@
         <mxCell id="TT3nsvYr7EZbplWC21bk-28" value="可学习的位置编码" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="566.75" y="436" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TT3nsvYr7EZbplWC21bk-31" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="619" y="69" width="60" height="30" as="geometry" />
+        <mxCell id="TT3nsvYr7EZbplWC21bk-31" value="下一个标记预测" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="572" y="50" width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TT3nsvYr7EZbplWC21bk-32" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAACYAAAA6CAYAAADcKStOAAAC30lEQVRoBe2YP0g6YRjHNVH3JIKwhoKopSEaHAIRIggaXAIXSaHJqSVqKpydHEUQBHEMxJZIB3FQEVGXDKSCXPovWGSh8o334H6od1APj/CTuIPj7p577v1++N577/vcq8OYbrox5YIGRn0zmmOaY1QHqPlaH9McozpAzf/bfazb7eLj4wOfn5/o9XpUc1Tz2Y5dX18jFovh4OAAJycnuLi4wMvLi6oYJcgCe3p6gtvthsVigV6vh06nw+LiIgKBAFqtFoVDkcsCC4fDMJlMEpCAkve1tTVUq1WFGCXAAnO5XP9gZChxnJmZwfn5OYVDkcsC29/fVwWbn59HJpNRiFECLLB8Po+FhYUBOIPBgJ2dHdzd3VE4FLkssE6ng0gkApvNBrPZLAGKj6FQKEAMIZyNBSYLN5tNqbMLl8ZmHJPhRn0ciWOjhhLtaWBUV/+uY+IrvL+/R6VSweXlJV5fX6nmqOazHTs7O4Pdbsf09LS0+3w+1Ot1VTFKkAVWLBaxuro6MPIbjUZ4PB40Gg0KhyKXBSbqr/7JWz5fWlpCLpdTiFECLLC9vT1VsLm5OaTTaQqHIpcFFgwGVcFWVlZQKpUUYpQAC+zm5gZOp3OgWJycnMTx8TGen58pHIpcFphorVwu4/DwEFtbW9je3kYoFMLj46NCiBpggwlB8Yf08PAguST+lEaxjQRsFCDDbWhgw478dK059pNDw/fZjr29vUn1fjQaRSKRwO3tLb6+voZ1yNcsMAF1dHQEMQXJSwTr6+uIx+Not9tkmP4HWGCnp6cQI708eYujAHQ4HLi6uurXIZ+zwHZ3dwegZECr1Sqt+pBp+h5ggXm9XlWw2dlZpFKpPhn6KQtMVK9TU1MDcBMTE9jc3GRXsSwwMUf6/X4sLy9DVK7iVW5sbED0Pe6cyQITL+j9/R21Wg3JZBLZbFaqLP77cEHvOb9/gu3Y76VomRoYzS9tUYXql+bYH3LsGySJAow1w1QWAAAAAElFTkSuQmCC;" vertex="1" parent="1">
+          <mxGeometry x="440" y="259" width="13.1" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
