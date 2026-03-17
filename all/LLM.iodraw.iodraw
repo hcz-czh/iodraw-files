@@ -14,10 +14,10 @@
           <mxGeometry x="353" y="740" width="83.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-6" value="多头因果自注意力" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E8D9BD;" vertex="1" parent="1">
-          <mxGeometry x="339.5" y="840" width="117" height="30" as="geometry" />
+          <mxGeometry x="339.5" y="800" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-8" value="前馈神经网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BDE8E8;" vertex="1" parent="1">
-          <mxGeometry x="353" y="940" width="90" height="30" as="geometry" />
+          <mxGeometry x="353" y="930" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-9" value="词嵌入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EFCBF5;" vertex="1" parent="1">
           <mxGeometry x="336.5" y="571" width="83" height="27" as="geometry" />
@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1bQjv6YVnuf7DABMnYCF-47" value="层归一化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E3E8BD;" vertex="1" parent="1">
-          <mxGeometry x="359.5" y="880" width="83.5" height="30" as="geometry" />
+          <mxGeometry x="356.25" y="870" width="83.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
