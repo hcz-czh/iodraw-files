@@ -28,8 +28,11 @@
         <mxCell id="1bQjv6YVnuf7DABMnYCF-12" value="层归一化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="343" y="800" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1bQjv6YVnuf7DABMnYCF-13" value="层归一化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" y="680" width="90" height="30" as="geometry" />
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-14" value="层归一化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="920" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1bQjv6YVnuf7DABMnYCF-15" value="层归一化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="930" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
