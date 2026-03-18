@@ -66,8 +66,11 @@
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="420" width="240" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-12" value="帧特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="450" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
