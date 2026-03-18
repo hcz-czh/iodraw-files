@@ -75,7 +75,7 @@
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-14" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#F8EFE6;" vertex="1" parent="1">
           <mxGeometry x="597.5" y="960" width="82.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-19" value="&amp;nbsp;时间自注意力" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-19" value="&amp;nbsp;时间自注意力" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#E8EDD5;" vertex="1" parent="1">
           <mxGeometry x="590" y="990" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-20" value="残差连接(+)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#F8DA9F;" vertex="1" parent="1">
@@ -84,7 +84,7 @@
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-21" value="残差连接(+)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#F8DA9F;" vertex="1" parent="1">
           <mxGeometry x="587.5" y="1140" width="105" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-22" value="前馈神经网络" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-22" value="前馈神经网络" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#FDE6AF;" vertex="1" parent="1">
           <mxGeometry x="592.5" y="1080" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-23" value="增强特征" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#E2E7D4;" vertex="1" parent="1">
