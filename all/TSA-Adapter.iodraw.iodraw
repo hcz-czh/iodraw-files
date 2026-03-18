@@ -72,8 +72,14 @@
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-13" value="时间位置编码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="510" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="575" width="120" height="60" as="geometry" />
+        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-14" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="550" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-15" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="560" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-16" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="570" width="90" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
