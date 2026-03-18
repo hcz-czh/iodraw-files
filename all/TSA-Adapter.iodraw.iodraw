@@ -87,7 +87,7 @@
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-22" value="前馈神经网络" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="592.5" y="1080" width="95" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-23" value="增强特征" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-23" value="增强特征" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#E2E7D4;" vertex="1" parent="1">
           <mxGeometry x="605" y="1169" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-24" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
