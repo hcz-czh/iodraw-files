@@ -79,22 +79,22 @@
           <mxGeometry x="610" y="560" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-20" value="残差连接(+)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="607.5" y="610" width="105" height="20" as="geometry" />
+          <mxGeometry x="607.5" y="600" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-21" value="残差连接(+)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="617.5" y="750" width="105" height="20" as="geometry" />
+          <mxGeometry x="605" y="850" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-22" value="前馈神经网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="670" width="95" height="20" as="geometry" />
+          <mxGeometry x="612.5" y="780" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-23" value="增强特征" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="780" width="70" height="20" as="geometry" />
+          <mxGeometry x="625" y="890" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-24" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="635" y="640" width="85" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-25" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="627.5" y="710" width="85" height="22.5" as="geometry" />
+          <mxGeometry x="617.5" y="810" width="85" height="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
