@@ -31,7 +31,7 @@
         <mxCell id="G_JqiA0zVKku1P3-Kpz0-12" value="共享记忆" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#ED792C;" parent="1" vertex="1">
           <mxGeometry x="155" y="470" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Axl1VFClDetMDF1nP8rP-1" value="最终输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="Axl1VFClDetMDF1nP8rP-1" value="最终输出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#A2CB8B;" vertex="1" parent="1">
           <mxGeometry x="320" y="680" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
