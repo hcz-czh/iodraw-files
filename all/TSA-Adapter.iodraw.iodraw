@@ -70,7 +70,7 @@
           <mxGeometry x="610" y="900" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-13" value="时间位置编码" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="585" y="930" width="110" height="20" as="geometry" />
+          <mxGeometry x="585" y="930" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-14" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="597.5" y="960" width="85" height="22.5" as="geometry" />
