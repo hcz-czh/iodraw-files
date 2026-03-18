@@ -18,17 +18,6 @@
         <mxCell id="G_JqiA0zVKku1P3-Kpz0-2" value="视频输入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#E3E3E4;" parent="1" vertex="1">
           <mxGeometry x="235" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Axl1VFClDetMDF1nP8rP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="G_JqiA0zVKku1P3-Kpz0-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="300" as="targetPoint" />
-            <mxPoint x="465" y="250" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="455" y="275" />
-              <mxPoint x="391" y="275" />
-              <mxPoint x="391" y="300" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G_JqiA0zVKku1P3-Kpz0-3" value="任务问题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#F5E9D8;" parent="1" vertex="1">
           <mxGeometry x="395" y="220" width="120" height="30" as="geometry" />
         </mxCell>
