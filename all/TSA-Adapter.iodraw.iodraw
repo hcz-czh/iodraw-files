@@ -51,8 +51,8 @@
         <mxCell id="RyAKpa8wuSzRFoHNLAG8-19" value="输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE3F3;" parent="1" vertex="1">
           <mxGeometry x="252.5" y="400" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-1" value="TSA-Adapter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="600" width="80" height="40" as="geometry" />
+        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-1" value="TSA-Adapter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF799;" vertex="1" parent="1">
+          <mxGeometry x="510" y="600" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
