@@ -16,10 +16,10 @@
         <mxCell id="G_JqiA0zVKku1P3-Kpz0-5" value="Perceiver" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#F9F6C4;" parent="1" vertex="1">
           <mxGeometry x="170" y="390" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G_JqiA0zVKku1P3-Kpz0-6" value="Excecutor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="G_JqiA0zVKku1P3-Kpz0-6" value="Excecutor" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#89D4FF;" parent="1" vertex="1">
           <mxGeometry x="320" y="390" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="G_JqiA0zVKku1P3-Kpz0-7" value="Reviewer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="G_JqiA0zVKku1P3-Kpz0-7" value="Reviewer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;fillColor=#FFDE42;" parent="1" vertex="1">
           <mxGeometry x="470" y="390" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="G_JqiA0zVKku1P3-Kpz0-9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;事实|活动|音频|字幕|证据&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" parent="1" vertex="1">
