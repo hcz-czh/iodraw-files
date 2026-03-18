@@ -73,28 +73,28 @@
           <mxGeometry x="585" y="920" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-14" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="595" y="1470" width="85" height="22.5" as="geometry" />
+          <mxGeometry x="600" y="950" width="85" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-19" value="&amp;nbsp;时间自注意力" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="592.5" y="1511.25" width="100" height="20" as="geometry" />
+          <mxGeometry x="332.5" y="1390" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-20" value="残差连接(+)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1551.25" width="105" height="20" as="geometry" />
+          <mxGeometry x="330" y="1430" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-21" value="残差连接(+)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="590" y="1711.25" width="105" height="20" as="geometry" />
+          <mxGeometry x="330" y="1590" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-22" value="前馈神经网络" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="595" y="1631.25" width="95" height="20" as="geometry" />
+          <mxGeometry x="335" y="1510" width="95" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-23" value="增强特征" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="607.5" y="1741.25" width="70" height="20" as="geometry" />
+          <mxGeometry x="347.5" y="1620" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-24" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="595" y="1591.25" width="85" height="22.5" as="geometry" />
+          <mxGeometry x="335" y="1470" width="85" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-25" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="597.5" y="1671.25" width="85" height="22.5" as="geometry" />
+          <mxGeometry x="337.5" y="1550" width="85" height="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
