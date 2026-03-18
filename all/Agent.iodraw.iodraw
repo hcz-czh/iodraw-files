@@ -25,6 +25,9 @@
         <mxCell id="G_JqiA0zVKku1P3-Kpz0-9" value="共享记忆&lt;br&gt;事实|活动|音频|字幕|证据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="530" width="440" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="G_JqiA0zVKku1P3-Kpz0-10" value="Synthesizer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="640" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
