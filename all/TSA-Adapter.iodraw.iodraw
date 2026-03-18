@@ -76,7 +76,7 @@
           <mxGeometry x="597.5" y="960" width="85" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-19" value="&amp;nbsp;时间自注意力" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="332.5" y="1390" width="100" height="20" as="geometry" />
+          <mxGeometry x="590" y="990" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-20" value="残差连接(+)" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="330" y="1430" width="105" height="20" as="geometry" />
