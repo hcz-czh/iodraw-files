@@ -70,13 +70,10 @@
           <mxGeometry x="627.5" y="440" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-13" value="时间位置编码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="480" width="110" height="20" as="geometry" />
+          <mxGeometry x="605" y="480" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-14" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="627.5" y="510" width="85" height="22.5" as="geometry" />
-        </mxCell>
-        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-16" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="720" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-19" value="&amp;nbsp;时间自注意力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="550" width="100" height="20" as="geometry" />
@@ -94,7 +91,10 @@
           <mxGeometry x="650" y="780" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-24" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="705" y="632.5" width="85" height="22.5" as="geometry" />
+          <mxGeometry x="635" y="640" width="85" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-25" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="627.5" y="710" width="85" height="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
