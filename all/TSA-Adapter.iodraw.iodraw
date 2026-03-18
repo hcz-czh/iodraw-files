@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RyAKpa8wuSzRFoHNLAG8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="100" y="390" width="612.5" height="430" as="geometry" />
+          <mxGeometry x="100" y="390" width="700" height="430" as="geometry" />
         </mxCell>
         <mxCell id="RyAKpa8wuSzRFoHNLAG8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="RyAKpa8wuSzRFoHNLAG8-4" target="RyAKpa8wuSzRFoHNLAG8-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -16,7 +16,7 @@
         <mxCell id="RyAKpa8wuSzRFoHNLAG8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="RyAKpa8wuSzRFoHNLAG8-6" target="RyAKpa8wuSzRFoHNLAG8-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RyAKpa8wuSzRFoHNLAG8-6" value="多模态投影层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E4F1DC;" parent="1" vertex="1">
+        <mxCell id="RyAKpa8wuSzRFoHNLAG8-6" value="多模态连接层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E4F1DC;" parent="1" vertex="1">
           <mxGeometry x="227.5" y="510" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RyAKpa8wuSzRFoHNLAG8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="RyAKpa8wuSzRFoHNLAG8-8" target="RyAKpa8wuSzRFoHNLAG8-6" edge="1">
