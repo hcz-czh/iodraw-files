@@ -88,7 +88,7 @@
           <mxGeometry x="625" y="610" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-21" value="残差连接(+)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="760.92" width="105" height="20" as="geometry" />
+          <mxGeometry x="617.5" y="750" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-22" value="前馈神经网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="670" width="95" height="20" as="geometry" />
