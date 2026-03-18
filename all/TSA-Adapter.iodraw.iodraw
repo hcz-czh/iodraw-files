@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="u3Amkzdtjn2DLYwHqht-">
-    <mxGraphModel dx="576" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="RyAKpa8wuSzRFoHNLAG8-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="100" y="360" width="700" height="430" as="geometry" />
+          <mxGeometry x="50" y="330.92" width="700" height="430" as="geometry" />
         </mxCell>
         <mxCell id="RyAKpa8wuSzRFoHNLAG8-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="RyAKpa8wuSzRFoHNLAG8-4" target="RyAKpa8wuSzRFoHNLAG8-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -24,18 +24,6 @@
         </mxCell>
         <mxCell id="RyAKpa8wuSzRFoHNLAG8-8" value="文本编码器" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=0;labelPosition=center;align=center;fillColor=#F8CBAD;" parent="1" vertex="1">
           <mxGeometry x="140" y="670" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="RyAKpa8wuSzRFoHNLAG8-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="680" as="sourcePoint" />
-            <mxPoint x="470" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="550" y="630" />
-              <mxPoint x="555" y="630" />
-              <mxPoint x="555" y="600" />
-              <mxPoint x="470" y="600" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="RyAKpa8wuSzRFoHNLAG8-12" target="GqJ7sJmJ3pqX1ljv70Ns-1">
           <mxGeometry relative="1" as="geometry" />
@@ -62,6 +50,9 @@
         </mxCell>
         <mxCell id="RyAKpa8wuSzRFoHNLAG8-19" value="输出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DAE3F3;" parent="1" vertex="1">
           <mxGeometry x="252.5" y="400" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="GqJ7sJmJ3pqX1ljv70Ns-1" target="RyAKpa8wuSzRFoHNLAG8-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-1" value="TSA-Adapter" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF799;" vertex="1" parent="1">
           <mxGeometry x="390.75" y="610" width="89.5" height="30" as="geometry" />
