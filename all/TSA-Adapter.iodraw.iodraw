@@ -76,10 +76,10 @@
           <mxGeometry x="630" y="550" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-15" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="660" width="90" height="25" as="geometry" />
+          <mxGeometry x="625" y="640" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-16" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="700" width="90" height="25" as="geometry" />
+          <mxGeometry x="620" y="740" width="90" height="25" as="geometry" />
         </mxCell>
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-19" value="&amp;nbsp;时间自注意力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="620" y="580" width="100" height="20" as="geometry" />
