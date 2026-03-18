@@ -99,6 +99,9 @@
         <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-25" value="层归一化" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#F8EFE6;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="598.75" y="1110" width="82.5" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="GqJ7sJmJ3pqX1ljv70Ns-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.52;entryY=0.833;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GqJ7sJmJ3pqX1ljv70Ns-12" target="GqJ7sJmJ3pqX1ljv70Ns-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
