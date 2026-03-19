@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RyAKpa8wuSzRFoHNLAG8-4" value="核心大语言模型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2EB;" parent="1" vertex="1">
-          <mxGeometry x="140" y="450" width="180" height="20" as="geometry" />
+          <mxGeometry x="244.38" y="446" width="136.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RyAKpa8wuSzRFoHNLAG8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="RyAKpa8wuSzRFoHNLAG8-6" target="RyAKpa8wuSzRFoHNLAG8-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
