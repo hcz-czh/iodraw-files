@@ -217,7 +217,10 @@
           <mxGeometry y="-1" width="71" height="71" as="geometry" />
         </mxCell>
         <mxCell id="tobmLZPP-rFPSL90p5km-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.5;endAngle=0;rotation=0;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="280" y="981" width="35" height="37.25" as="geometry" />
+          <mxGeometry x="279.75" y="981.37" width="35" height="37.25" as="geometry" />
+        </mxCell>
+        <mxCell id="tobmLZPP-rFPSL90p5km-14" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.5;endAngle=0;rotation=0;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="289.75" y="991.37" width="35" height="37.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
