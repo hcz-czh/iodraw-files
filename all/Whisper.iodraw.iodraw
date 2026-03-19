@@ -217,10 +217,7 @@
           <mxGeometry y="-1" width="71" height="71" as="geometry" />
         </mxCell>
         <mxCell id="tobmLZPP-rFPSL90p5km-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.5212036960756425;endAngle=0.004920749277872436;rotation=0;direction=south;" vertex="1" parent="tobmLZPP-rFPSL90p5km-9">
-          <mxGeometry y="22.5" width="35" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="tobmLZPP-rFPSL90p5km-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.5725134833586092;endAngle=0.004920749277872436;rotation=-180;direction=south;" vertex="1" parent="tobmLZPP-rFPSL90p5km-9">
-          <mxGeometry x="35" y="22.5" width="35" height="35" as="geometry" />
+          <mxGeometry y="21" width="35" height="36.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
