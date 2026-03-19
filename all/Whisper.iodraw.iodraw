@@ -60,7 +60,7 @@
           <mxGeometry x="379.45000000000005" y="486.25" width="13.1" height="20" as="geometry" />
         </mxCell>
         <mxCell id="xVQ_b2z2GW1B3TXGjReW-100" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="370.5" y="650" width="29" height="29" as="geometry" />
+          <mxGeometry x="371.5" y="649" width="29" height="29" as="geometry" />
         </mxCell>
         <mxCell id="xVQ_b2z2GW1B3TXGjReW-105" value="两层一维卷积 + GELU激活函数" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.07624113475177305;arcSize=10;flipV=0;labelPosition=center;align=center;" parent="1" vertex="1">
           <mxGeometry x="279.75" y="709.25" width="211.5" height="43.5" as="geometry" />
