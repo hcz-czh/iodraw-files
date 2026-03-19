@@ -232,7 +232,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HNIirh41-NOQaxgAKF1H-9" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-770" y="725" width="60" height="60" as="geometry" />
+          <mxGeometry x="-760" y="520" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HNIirh41-NOQaxgAKF1H-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.4984085036175459;endAngle=0.004920749277872436;rotation=-90;" vertex="1" parent="HNIirh41-NOQaxgAKF1H-9">
           <mxGeometry x="30" y="15" width="30" height="30" as="geometry" />
