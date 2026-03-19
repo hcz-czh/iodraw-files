@@ -231,8 +231,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HNIirh41-NOQaxgAKF1H-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.5094623437638742;endAngle=0.1;" vertex="1" parent="1">
-          <mxGeometry x="-827" y="650" width="87" height="90" as="geometry" />
+        <mxCell id="HNIirh41-NOQaxgAKF1H-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.5094623437638742;endAngle=0.012705336833057948;" vertex="1" parent="1">
+          <mxGeometry x="-827" y="710" width="37" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
