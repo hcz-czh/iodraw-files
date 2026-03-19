@@ -220,7 +220,7 @@
           <mxGeometry x="36" y="15.879999999999995" width="35" height="37.25" as="geometry" />
         </mxCell>
         <mxCell id="tobmLZPP-rFPSL90p5km-12" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.5;endAngle=0;rotation=0;direction=south;" vertex="1" parent="tobmLZPP-rFPSL90p5km-9">
-          <mxGeometry x="1" y="21.379999999999995" width="35" height="37.25" as="geometry" />
+          <mxGeometry x="0.45" y="21.38" width="36.55" height="37.25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
