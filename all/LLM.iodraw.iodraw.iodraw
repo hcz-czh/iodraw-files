@@ -237,6 +237,9 @@
         <mxCell id="HNIirh41-NOQaxgAKF1H-7" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.4984085036175459;endAngle=0.004920749277872436;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-770" y="740" width="30" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HNIirh41-NOQaxgAKF1H-8" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.4984085036175459;endAngle=0.004920749277872436;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="740" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
