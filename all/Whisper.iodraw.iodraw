@@ -186,6 +186,12 @@
         <mxCell id="slR_wyNSup8Dle3vQpA8-23" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.4984085036175459;endAngle=0.004920749277872436;rotation=0;direction=south;strokeWidth=2;" vertex="1" parent="slR_wyNSup8Dle3vQpA8-20">
           <mxGeometry y="10" width="20" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="slR_wyNSup8Dle3vQpA8-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="665.36" as="sourcePoint" />
+            <mxPoint x="400" y="665.36" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
