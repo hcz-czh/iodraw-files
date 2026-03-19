@@ -231,7 +231,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HNIirh41-NOQaxgAKF1H-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.5094623437638742;endAngle=0.012705336833057948;rotation=65;" vertex="1" parent="1">
+        <mxCell id="HNIirh41-NOQaxgAKF1H-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.5094623437638742;endAngle=0.012705336833057948;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-760" y="670" width="37" height="30" as="geometry" />
         </mxCell>
       </root>
