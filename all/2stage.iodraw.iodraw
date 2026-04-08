@@ -140,7 +140,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wUuj-JJParpmk7R6qcxE-43" value="第一阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="159" y="363" width="60" height="30" as="geometry" />
+          <mxGeometry x="183" y="383" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wUuj-JJParpmk7R6qcxE-44" value="第二阶段" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580.5" y="383" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
